@@ -1,2 +1,2 @@
 # Mesure-faible-d-un-etat-polarise
-Programme qui calcule analytiquement la valeur faible d'un état polarisé avec un shift sur dégrée temporel.
+Calcul analytique de la valeur faible d'un état polarisé aléatoire qui subit un décalage sur la partie horizontale de son axe de polarisation et post-sélectionner sur une polarisation diagonale.
